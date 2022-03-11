@@ -69,6 +69,14 @@ namespace KiemTraNe
             this.label2.TabIndex = 2;
             this.label2.Text = "mật khẩu";
             // 
+            // btnlogin
+            // 
+            this.btnlogin.Location = new System.Drawing.Point(268, 250);
+            this.btnlogin.Name = "btnlogin";
+            this.btnlogin.Size = new System.Drawing.Size(96, 41);
+            this.btnlogin.TabIndex = 0;
+            this.btnlogin.Text = "Đăng nhập";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
